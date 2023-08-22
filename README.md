@@ -21,4 +21,6 @@ Automatebound interfaces directly with the steam workshop through steamcmd, and 
 
 -Open up Autoupdater.js, and edit to what you need it to do!
 
--This application is still in beta, but has worked from my personal tests and I have used it to run my server, evil penguin!
+-Finally, run AAA_STARTSERVER_AAA.bat, and watch it automatically set up your server!
+
+### This application is still in beta, but has worked from my personal tests and I have used it to run my server, evil penguin! Please report any problems. If you want to help out with a custom GUI/coding please let me know as well on discord or github!
