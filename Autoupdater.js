@@ -132,7 +132,6 @@ else{
 //this function will start up the server if there is no server running in the server child
 //ARGUMENTS: serverExecutable: The exact name and directory of the server file
 function run_server(server_dir){
-	console.log("Here is the SERVER DIR: " + String(serverDir))
 
 	if (fs.existsSync(serverDir)){
     
@@ -296,7 +295,6 @@ function copy_paste_mods(){
 	if (firstRun != true){
 		kill_server()
 	}
-    console.log("What the hell");
     if (installServer == false){
             copyPaster = copypaste_child.spawn("py", [String(dir) + "\\copypaste.py", "-b=" + String(serverDir), "-c=" + String(serverCacheDir), "steamapps\\workshop\\content\\" + String(gameId) ,"-i=n", "-sid=" + String(serverId)],{shell:true, detached:true});
             console.log("COPYING MODS FROM CACHE TO SERVER MODS FOLDER");
