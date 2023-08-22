@@ -24,10 +24,10 @@ var user = "USERNAME";
 var pass = "PASSWORD";
 
 //the ID of the game
-var gameId = "211820";
+var gameId = 211820;
 
 //the ID of the game's dedicated server files
-var serverId = "533830"
+var serverId = 533830;
 
 //the path of your server
 var serverDir = "D:\\SERVER\\DIRECTORY\\NOSPACES\\";
