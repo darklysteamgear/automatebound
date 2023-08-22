@@ -17,13 +17,11 @@ DO NOT RUN THIS IN ANY DIRECTORY THAT HAS SPACES IN IT'S NAME, OR IT WILL NOT WO
 
 4.) Make sure you have powershell installed as well if you are using some other system (WARNING: UNTESTED IN LINUX, DON'T EVEN TRY TO USE A MAC)
 
-5.) there was an issue that occured when microsoft word was not installed alongside powershel, but that issue is resolved.
+5.) Open up AAA_STARTSERVER_AAA and edit the file to direct to your Autoupdate.js file
 
-6.) Open up AAA_STARTSERVER_AAA and edit the file to direct to your Autoupdate.js file
+6.) Open up Autoupdater.js, and edit to what you need it to do!
 
-7.) Open up Autoupdater.js, and edit to what you need it to do!
-
-8.) Finally, run AASTART_SERVERAA.bat, and watch it automatically set up your server!
+7.) Finally, run AASTART_SERVERAA.bat, and watch it automatically set up your server!
 
 #### OPTIONAL:
 -Create a shortcut to AASTART_SERVERAA somewhere on your desktop.
