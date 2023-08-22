@@ -7,7 +7,7 @@ Automatebound interfaces directly with the steam workshop through steamcmd, and 
 Automatebound is designed for those of us who want to run a steam workshop collection on a dedicated server with our own dedicated hardware, and keep that server as updated as possible. This is my solution to this problem! Though there may be better ways of keeping the server constantly updated, I found that waiting and then trying to download new mods in a batch job is less taxing on the system and thus more efficient for larger collections. I have been able to have 3-4 minute downtimes with dialy updates for my large 400 mod workshop collection server by using this tool.
 
 ## TO GET STARTED:
-DO NOT RUN THIS IN ANY DIRECTORY THAT HAS SPACES, OR IT WILL NOT WORK!!!
+DO NOT RUN THIS IN ANY DIRECTORY THAT HAS SPACES IN IT'S NAME, OR IT WILL NOT WORK (example: C:\\I Have Spaces\I\Won't\Work\!!!
 
 1.) First make sure you install SteamCMD inside of the main directory for this automation script by running steamcmd.exe inside of the SteamCMD folder. A copy of it is included in this project, but feel free to grab your own copy on steam's website
 
